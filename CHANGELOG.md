@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
 - Parameter `escape_html` added to the `format_json()` Bloblang method. (@mihaitodor)
 - Go API: New generic key/value store methods added to the `*Resources` type. (@Jeffail)
 - Go API: New `BloblangExecutor` and `InterpolationExecutor` added to the `MessageBatch`. (@Jeffail)
+- New `array` bloblang method. (@gramian)
 
 ## 4.30.0 - 2024-06-13
 
