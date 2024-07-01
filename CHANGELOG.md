@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file.
 - Go API: New generic key/value store methods added to the `*Resources` type. (@Jeffail)
 - Go API: New `BloblangExecutor` and `InterpolationExecutor` added to the `MessageBatch`. (@Jeffail)
 - New `array` bloblang method. (@gramian)
+- Go API: New `CLIOptSetEnvVarLookup` cli option for customising config interpolations. (@Jeffail)
 
 ## 4.30.0 - 2024-06-13
 
