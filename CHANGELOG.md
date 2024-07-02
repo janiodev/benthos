@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file.
 - Go API: New `BloblangExecutor` and `InterpolationExecutor` added to the `MessageBatch`. (@Jeffail)
 - New `array` bloblang method. (@gramian)
 - Go API: New `CLIOptSetEnvVarLookup` cli option for customising config interpolations. (@Jeffail)
+- Algorithm `fnv32` added to the `hash` bloblang method. (@CallMeMhz)
 
 ## 4.30.0 - 2024-06-13
 
